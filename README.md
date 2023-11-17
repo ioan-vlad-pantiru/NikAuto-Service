@@ -1,5 +1,5 @@
 # InfinityDesk
-Hermes Hackathon 2023 Project-team Autobotii
+Hermes Hackathon 2023 Project - Team Autobotii
 
 ## Project Purpose and Utility:
 
