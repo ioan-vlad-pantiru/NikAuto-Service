@@ -7,15 +7,13 @@ The InfinityDesk platform provides endless opportunities for progress for employ
 
 To enable users to obtain credits before teaching others, there are three options:
 
--Upon creating an account on the platform, users receive a certain number of free credits.
+- Users can post materials, text / video courses, papers, etc., which will be evaluated by platform administrators, and they will receive a predetermined number of credits.
 
--Users can post materials, text/video courses, papers, etc., which will be evaluated by platform administrators, and they will receive a predetermined number of credits.
+- Credits can be purchased at a cost.
 
--Credits can be purchased at a cost.
-
--The motivation to create this platform stems from the method by which employees evolve within a company. They learn from each other, but the disadvantage is having a limited circle of people to communicate with. Through the InfinityDesk platform, specialists from any field and any company are readily available to help you develop skills you already possess or even learn completely new ones.
+- The motivation to create this platform stems from the method by which employees evolve within a company. They learn from each other, but the disadvantage is having a limited circle of people to communicate with. Through the InfinityDesk platform, specialists from any field and any company are readily available to help you develop skills you already possess or even learn completely new ones.
 
 ## Main Technologies Used:
--HTML, CSS, JavaScript, git, Bootstrap
+- HTML, CSS, JavaScript, git, Bootstrap
 
--Possible: Python (Flask / Django), React, Sass, SQL / MongoDB
+- Possible: Python (Flask / Django), React, Sass, SQL / MongoDB
