@@ -7,7 +7,7 @@ The InfinityDesk platform provides endless opportunities for progress for employ
 
 To enable users to obtain credits before teaching others, there are three options:
 
-- Users can post materials, text / video courses, papers, etc., which will be evaluated by platform administrators, and they will receive a predetermined number of credits.
+- Users can post materials, text / video courses, papers, etc., which will be evaluated by platform administrators or paid mentors, and they will receive a predetermined number of credits.
 
 - Credits can be purchased at a cost.
 
