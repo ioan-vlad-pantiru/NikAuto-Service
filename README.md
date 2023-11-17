@@ -18,4 +18,4 @@ To enable users to obtain credits before teaching others, there are three option
 ## Main Technologies Used:
 -HTML, CSS, JavaScript, git, Bootstrap
 
--Possible: React, Sass, SQL/MongoDB
+-Possible: Python (Flask / Django), React, Sass, SQL / MongoDB
