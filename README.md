@@ -14,6 +14,6 @@ To enable users to obtain credits before teaching others, there are two options:
 The motivation to create this platform stems from the method by which employees evolve within a company. They learn from each other, but the disadvantage is having a limited circle of people to communicate with. Through the InfinityDesk platform, specialists from any field and any company are readily available to help you develop skills you already possess or even learn completely new ones.
 
 ## Main Technologies Used:
-- HTML, CSS, JavaScript, git, Bootstrap
+- HTML, CSS, Bootstrap, JavaScript, git, React, Python (Flask)
 
-- Possible: Python (Flask / Django), React, Sass, SQL / MongoDB
+- Possible: Sass, SQL / MongoDB
