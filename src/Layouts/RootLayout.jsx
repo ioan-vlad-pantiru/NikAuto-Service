@@ -4,7 +4,7 @@ function RootLayout() {
 
     return (
       <div>
-        <p>root</p>
+
         <Outlet/>
       </div>
     )
