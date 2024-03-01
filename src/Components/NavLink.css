@@ -1,0 +1,10 @@
+.header-nav-link{
+    padding: 15px 32px;
+    color: var(--white);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: var(--p-md);
+    border-radius: var(--br-lg);
+    cursor: pointer;
+}

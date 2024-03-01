@@ -1,4 +1,27 @@
-.logo{
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 2*var(--p-lg);
     width: 100%;
-    margin: 0 auto;
+    position: fixed;
+    padding-left: var(--p-md);
+    padding-top: var(--p-md);
+    padding-right: var(--p-lg);
+    border-radius: 0 var(--br-lg) var(--br-lg) 0;
+    background-color: var(--surface);
+    border: 1px solid var(--border);
+}
+
+.logo {
+    
+    max-width: 150px;
+}
+
+.navbar ul {
+    margin: var(--br-lg);
+    padding: var(--p-sm); 
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
 }
