@@ -4,19 +4,33 @@
     --main-bg-color: #1E1E1E;
     --white: #ffffff;
     --error: #EE3131;
-    --black: #191919;
-    --gray: rgba(0,0,0,0.7);
+    --gray: #464646;
+    --black: rgba(0,0,0,0.8);
     --br-md: 9.25px;
     --br-lg: 18.5px;
     --p-lg: 2.95rem;
     --p-md: 1.25rem;
     --p-sm: 1rem;
-    --p-xs: 0.5rem;
+    --p-xs: 0.2rem;
     --size-md: 16px;
     --size-lg: 18px;
     --size-xl: 24px;
     --size-xxl: 36px;
 }
+
+.josefin-sans-font {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.prata-regular {
+    font-family: "Prata", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
 
 * {
     margin: 0;
@@ -27,8 +41,6 @@ body, #root {
     height: 100%;
     width: 100%;
     background-color: var(--main-bg-color);
-    background-image: url('/public/Dapper.png');
-    background-size: cover;
 }
 
 #root-layout {
@@ -51,6 +63,10 @@ h1,h2,h3,h4,h5,p,button,span,label,th,td {
 
 .c-black {
     color: var(--black)
+}
+
+.c-white {
+    color: var(--white)
 }
 
 .c-surface {

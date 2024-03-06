@@ -1,10 +1,11 @@
 import "./NavLink.css"
+import { Link } from 'react-router-dom';
 
-function NavLink({text, isActive}) {
+function NavLink({to, text, isActive}) {
     return (
-        <div className={isActive ? "header-nav-link header-nav-link-active":"header-nav-link"}>
+        <a href={to} className={isActive ? "header-nav-link header-nav-link-active" : text === "Contact" ? "header-nav-link bg-primary" : "header-nav-link"}>
             <p className="size-xl">{text}</p>
-        </div>
+        </a>
     )
 }
 

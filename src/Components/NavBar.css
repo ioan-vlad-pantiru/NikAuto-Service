@@ -6,16 +6,18 @@
     width: 100%;
     position: fixed;
     padding-left: var(--p-md);
-    padding-top: var(--p-md);
+    padding-top: var(--p-xs);
     padding-right: var(--p-lg);
     border-radius: 0 var(--br-lg) var(--br-lg) 0;
-    background-color: var(--surface);
+    background-color: var(--main-bg-color);
     border: 1px solid var(--border);
+    z-index: 100;
 }
 
 .logo {
     
-    max-width: 150px;
+    max-width: 100px;
+    padding: var(--p-sm);
 }
 
 .navbar ul {
@@ -25,3 +27,5 @@
     flex-direction: row;
     list-style-type: none;
 }
+
+

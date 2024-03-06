@@ -1,17 +1,19 @@
 import NavLink from "./NavLink"
 import "./NavBar.css"
+import "../index.css"
 
 function NavBar(){
     return(
-        <div className="navbar">
-            <img src="Logo.svg" alt="Logo" className="logo" />
+        <nav className="navbar">
+            <img src="./Logo/Logo_negru_transparent.png" alt="Logo" className="logo" />
             <ul>
-                <NavLink text="Home" isActive={true}/>
-                <NavLink text="Despre" isActive={false}/>
-                <NavLink text="Servicii" isActive={false}/>
-                <NavLink text="Contact" isActive={false}/>
+                <NavLink to="/" text="Home" isActive={true}/>
+                <NavLink to="/despre"text="Despre" isActive={false}/>
+                <NavLink to="/servicii"text="Servicii" isActive={false}/>
+                <NavLink to="/galerie"text="Galerie" isActive={false}/>
+                <NavLink to="/contact"text="Contact" isActive={false}/>
             </ul>
-        </div>
+        </nav>
     )
 }
 

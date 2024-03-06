@@ -4,7 +4,6 @@ import NavBar from "../Components/NavBar"
 function RootLayout() {
 
     return (
-      
       <div>
         <NavBar/>
         <Outlet/>

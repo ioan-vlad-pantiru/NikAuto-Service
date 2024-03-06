@@ -1,0 +1,7 @@
+.three-card-layout{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+    padding-top: 8rem;
+}
